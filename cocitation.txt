@@ -1,0 +1,295 @@
+{
+    "papers": [
+ 
+       {
+         "id": "67",
+ 		"author_ids":[106],
+           	"citation_ids": [12,43,49,87,54,110],
+    
+        	"article": "Biswas, Indranil(6-TIFR-SM); Gothen, Peter B.(P-PORTS-PM); Logares, Marina(E-CSIC-IM)
+Math. Proc. Cambridge Philos. Soc. 151 (2011), no. 3, 441–457.",
+ 
+                "date": "2011"
+  
+       },
+
+       {
+            "id": "69",
+ 	   "author_ids":[19],
+ 
+           "citation_ids": [0,78],
+ 
+           "article": "Calegari, Danny(1-CAIT); Sun, Hongbin(1-PRIN); Wang, Shicheng(PRC-BJ-SM)
+Pacific J. Math. 250 (2011), no. 2, 287–317.",
+
+            "date": "2011"
+        }
+
+ {
+         "id": "71",
+ 	   "author_ids":[85],
+ 
+           	"citation_ids": [0,6,20,34,60,68,71,83,85,102],
+    
+        	"article": "Mj, Mahan(6-RMV-SMS)
+Geom. Topol. 15 (2011), no. 1, 331–350.",
+ 
+                "date": "2011"
+  
+       },
+
+ {
+         "id": "76",
+ 	   "author_ids":[106],
+ 
+           	"citation_ids": [10,37,64,106],
+    
+        	"article": "Bonsante, Francesco(I-PAVI); Krasnov, Kirill(4-NOTT-SM); Schlenker, Jean-Marc(F-TOUL3-IM)
+Int. Math. Res. Not. IMRN 2011, no. 3, 487–552. ",
+ 
+                "date": "2011"
+  
+       },
+
+ {
+         "id": "77",
+ 	   "author_ids":[120],
+ 
+           	"citation_ids": [24,54,57,118,120],
+    
+        	"article": "Harada, Megumi(3-MMAS-MS); Wilkin, Graeme(1-CO)
+Geom. Dedicata 150 (2011), 307–353.  ",
+ 
+                "date": "2011"
+  
+       },
+
+ {
+         "id": "78",
+ 	   "author_ids":[24,118,120],
+ 
+           	"citation_ids": [24,54,110,120],
+    
+        	"article": "Daskalopoulos, Georgios(1-BRN); Weitsman, Jonathan(1-NORE); Wentworth, Richard A.(1-MD); Wilkin, Graeme(1-CO)
+J. Differential Geom. 87 (2011), no. 1, 81–115.  ",
+ 
+                "date": "2011"
+  
+       },
+ {
+         "id": "79",
+ 
+ 	   "author_ids":[41],
+           	"citation_ids": [41,115],
+    
+        	"article": "Gabai, David(1-PRIN); Meyerhoff, Robert(1-BSTC); Milley, Peter
+Comment. Math. Helv. 86 (2011), no. 1, 145–188.   ",
+ 
+                "date": "2011"
+  
+       },
+
+
+    ]
+
+}
+
+        {
+            "id": "44",
+            "author_ids": [34,68],
+            "citation_ids": [31,15,68,88,99],
+            "article": "Small dilatation pseudo-Anosov homeomorphisms and 3-manifolds. (English summary) Adv. Math. 228 (2011), no. 3, 1466¨C1502.",
+            "date": "2011"
+        },
+
+        {
+            "id": "45",
+            "author_ids": [266],
+            "citation_ids": [31,266],
+            "article": "Slopes and colored Jones polynomials of adequate knots. (English summary) Proc. Amer. Math. Soc. 139 (2011), no. 5, 1889¨C1896. ",
+            "date": "2011"
+        },
+        {
+            "id": "46",
+            "author_ids": [23],
+            "citation_ids": [265,23,22,71,102,261,31],
+            "article": "Singular surfaces, mod 2 homology, and hyperbolic volume, II. (English summary) Topology Appl. 158 (2011), no. 1, 118¨C131. ",
+            "date": "2011"
+        },
+        {
+            "id": "47",
+            "author_ids": [75],
+            "citation_ids": [35,75,40,266,75,64,88],
+            "article": "Simplicial volume and fillings of hyperbolic manifolds. (English summary) Algebr. Geom. Topol. 11 (2011), no. 4, 2237¨C2264. ",
+            "date": "2011"
+        },
+        {
+            "id": "48",
+            "author_ids": [19],            
+            "citation_ids": [18,19,41],
+            "article": "scl, sails, and surgery. (English summary)J. Topol. 4 (2011), no. 2, 305¨C326.  ",
+            "date": "2011"
+        },
+        {
+            "id": "51",
+            "author_ids": [89],   
+            "citation_ids": [12,43,49,87,46,89,110,126],
+            "article": "Representations of surface groups in the projective general linear group. (English summary) Internat. J. Math. 22 (2011), no. 2, 223¨C279.  ",
+            "date": "2011"
+        },
+        {
+            "id": "52",
+            "author_ids": [85],   
+            "citation_ids": [34,83,85],
+            "article": "Relative hyperbolicity, trees of spaces and Cannon-Thurston maps. (English summary) 
+Geom. Dedicata 151 (2011), 59¨C78.",
+            "date": "2011"
+        },
+        {
+            "id": "54",
+            "author_ids": [31],   
+            "citation_ids": [9,31,115,111],
+            "article": "Quantum invariants of random 3-manifolds. (English summary) Algebr. Geom. Topol. 11 (2011), no. 4, 2191¨C2205. ",
+            "date": "2011"
+        },
+        {
+            "id": "57",
+            "author_ids": [95],   
+            "citation_ids": [95,84,99,125],
+            "article": "Pants decompositions of random surfaces. (English summary) Geom. Funct. Anal. 21 (2011), no. 5, 1069¨C1090. ",
+            "date": "2011"
+        },
+        {
+            "id": "58",
+            "author_ids": [13], 
+            "citation_ids": [4,13,29,264,19],
+            "article": "Orthospectra of geodesic laminations and dilogarithm identities on moduli space. (English summary)Geom. Topol. 15 (2011), no. 2, 707¨C733. ",
+            "date": "2011"
+        },
+        {
+            "id": "59",
+            "author_ids": [14], 
+            "citation_ids": [14],
+            "article": "Orbit equivalence, coinduced actions and free products. (English summary) Groups Geom. Dyn. 5 (2011), no. 1, 1¨C15. ",
+            "date": "2011"
+        },
+
+{
+    "papers": [
+        {
+            "id": "21",
+	    "author_ids": [16],
+            "citation_ids": [1,20,10,15,16,83,64,111,108,77],
+            "article": "Bromberg, Kenneth
+The space of Kleinian punctured torus groups is not locally connected. Duke Math. J. 156 (2011), no. 3, 387427.",
+            "date": "2011"
+        },
+
+		{
+            "id": "23",
+	    "author_ids": [116],
+            "citation_ids": [116],
+            "article": "Allcock, Daniel; Carlson, James A.; Toledo, Domingo The moduli space of cubic threefolds as a ball quotient. Mem. Amer. Math. Soc. 209 (2011), no. 985, xii+70 pp..",
+            "date": "2011"
+        },
+
+		{
+            "id": "25",
+	    "author_ids": [33,94],
+            "citation_ids": [22,64,26,33,98,94,46,108],
+            "article": "Falbel, Elisha; Fancsics, Gábor(1-MIS); Parker, John R. The geometry of the Gauss-Picard modular group. Math. Ann. 349 (2011), no. 2, 459508.",
+            "date": "2011"
+        },
+		{
+            "id": "26",
+	    "author_ids": [17],
+            "citation_ids": [17,18,56,119,116,46],
+            "article": "Bucher, Michelle; Gelander, Tsachik The generalized Chern conjecture for manifolds that are locally a product of surfaces.
+Adv. Math. 228 (2011), no. 3, 15031542.",
+            "date": "2011"
+        },
+		{
+            "id": "27",
+	    "author_ids": [39],
+            "citation_ids": [39,99],
+            "article": "Funar, Louis; Kapoudjian, Christophe The braided Ptolemy-Thompson group is asynchronously combable. Comment. Math. Helv. 86 (2011), no. 3, 707768.",
+            "date": "2011"
+        },
+
+		{
+            "id": "29",
+	    "author_ids": [102],
+            "citation_ids": [20,13],
+            "article": "Bonfert-Taylor, Petra; Martin, Gaven; Reid, Alan W.; Taylor, Edward C. Teichmüller mappings, quasiconformal homogeneity, and non-amenable covers of Riemann surfaces. Pure Appl. Math. Q. 7 (2011), no. 2, Special Issue: In honor of Frederick W. Gehring, Part 2, 455468.",
+            "date": "2011"
+        },
+		{
+            "id": "30",
+	    "author_ids": [97],
+            "citation_ids": [83,6,10,23,32,34,53,60,73,68,93,96,97],
+            "article": "Paulin, Frédéric Sur les automorphismes de groupes libres et de groupes de surface. [On automorphisms of free groups and surface groups] Séminaire Bourbaki. Vol. 2009/2010. Exposés 10121026. Astérisque No. 339 (2011), Exp. No. 1023, ix, 323356.",
+            "date": "2011"
+        },
+
+		{
+            "id": "31",
+	    "author_ids": [24],
+            "citation_ids": [24],
+            "article": "Daskalopoulos, Georgios; Mese, Chikako; Vdovina, Alina Superrigidity of hyperbolic buildings. Geom. Funct. Anal. 21 (2011), no. 4, 905919. ",
+            "date": "2011"
+        },
+
+		{
+            "id": "34",
+	    "author_ids": [62],
+            "citation_ids": [6,51,62,65],
+            "article": "Kassel, Fanny; Kobayashi, Toshiyuki Stable spectrum for pseudo-Riemannian locally symmetric spaces. C. R. Math. Acad. Sci. Paris 349 (2011), no. 1-2, 2933.",
+            "date": "2011"
+        },
+		{
+            "id": "35",
+	    "author_ids": [14],
+            "citation_ids": [14],
+            "article": "Bowen, Lewis Stable orbit equivalence of Bernoulli shifts over free groups. Groups Geom. Dyn. 5 (2011), no. 1, 1738.",
+            "date": "2011"
+        },
+		{
+            "id": "36",
+	    "author_ids": [60,73],
+            "citation_ids": [10,73,23,34,60,97],
+            "article": "Kapovich, Ilya; Lustig, Martin Stabilizers of R-trees with free isometric actions of FN. J. Group Theory 14 (2011), no. 5, 673694.",
+            "date": "2011"
+        },
+		{
+            "id": "37",
+	    "author_ids": [38],
+            "citation_ids": [38,32,59,78],
+            "article": "Forni, Giovanni; Matheus, Carlos; Zorich, Anton Square-tiled cyclic covers. 
+J. Mod. Dyn. 5 (2011), no. 2, 285318.",
+            "date": "2011"
+        },
+		{
+            "id": "38",
+	    "author_ids": [97],
+            "citation_ids": [33,94,46,97,56,108],
+            "article": "Parkkonen, Jouni; Paulin, Frédéric Spiraling spectra of geodesic lines in negatively curved manifolds. Math. Z. 268 (2011), no. 1-2, 101142. ",
+            "date": "2011"
+        },
+		{
+            "id": "39",
+	    "author_ids": [59],
+            "citation_ids": [59],
+            "article": "Hillairet, Luc; Judge, Chris
+Spectral simplicity and asymptotic separation of variables. Comm. Math. Phys. 302 (2011), no. 2, 291344.",
+            "date": "2011"
+        },		{
+            "id": "40",
+	    "author_ids": [109],
+            "citation_ids": [265,11],
+            "article": "Cowling, Michael G.; Klima, Oldrich; Sikora, Adam Spectral multipliers for the Kohn sublaplacian on the sphere in Cn. Trans. Amer. Math. Soc. 363 (2011), no. 2, 611631.",
+            "date": "2011"
+        },
+
+    ]
+}
+
