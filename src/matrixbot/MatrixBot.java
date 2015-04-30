@@ -25,6 +25,9 @@ public class MatrixBot {
     public static int[][] coCitationMatrix=new int[270][270];
     public static double[][] allMatrix=new double[270][270];
     
+    public static double a = 0.5;
+    public static double b = 0.25;
+    public static double c = 0.25;
     
     
     /**
@@ -71,9 +74,7 @@ public class MatrixBot {
             }
         }
         
-        double a = 0.5;
-        double b = 0.25;
-        double c = 0.25;
+        
         
         for(int i=0;i<270;i++){
             for(int j=0;j<270;j++){
@@ -88,7 +89,7 @@ public class MatrixBot {
         PrintWriter wr1 = new PrintWriter("coAuthorMatrix.txt", "UTF-8");
         PrintWriter wr2 = new PrintWriter("muCitationMatrix.txt", "UTF-8");
         PrintWriter wr3 = new PrintWriter("coCitationMatrix.txt", "UTF-8");
-        PrintWriter wr4 = new PrintWriter("thirdMatrix.txt", "UTF-8");
+        PrintWriter wr4 = new PrintWriter("finalMatrix.txt", "UTF-8");
         
         for(int i=0;i<270;i++){
             for(int j=0;j<270;j++){
