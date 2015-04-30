@@ -11,7 +11,8 @@ GEAR NETWORK
 3. coCitationMatrix.txt  
 4. finalMatrix.txt (combinations of three matrices)  
 
-finalMatrix[i][j] = a*coAuthorMatrix[i][j]+ b*muCitationMatrix[i][j] + c*coCitationMatrix[i][j];  
+finalMatrix[i][j] = a x coAuthorMatrix[i][j]+ b x muCitationMatrix[i][j] + c x coCitationMatrix[i][j];  
+(a,b,c can be changed in the main function)  
 
 ### Environment  
 Netbeans and Java  
