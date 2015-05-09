@@ -25,9 +25,9 @@ public class MatrixBot {
     public static int[][] coCitationMatrix=new int[270][270];
     public static double[][] allMatrix=new double[270][270];
     
-    public static double a = 0.5;
-    public static double b = 0.25;
-    public static double c = 0.25;
+    public static double a = 1;
+    public static double b = 0.;
+    public static double c = 0.;
     
     
     /**
