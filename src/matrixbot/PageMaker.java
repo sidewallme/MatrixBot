@@ -15,7 +15,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import static jdk.nashorn.internal.objects.NativeRegExp.source;
 
 /**
  *
@@ -118,10 +117,10 @@ public class PageMaker {
 
             }
             else if(line.contains("pos_x")){
-                line = "\"pos_x\"" + ":" + idToX.get(currentID);
+                line = "\"pos_x\"" + ":" + idToX.get(currentID)+",";
             }
             else if(line.contains("pos_y")){
-                line = "\"pos_y\"" + ":" + idToY.get(currentID);
+                line = "\"pos_y\"" + ":" + idToY.get(currentID)+",";
             }
             else if(line.contains("cluster_id")){
                 line = "\"cluster_id\"" + ":" + idToClus.get(currentID);

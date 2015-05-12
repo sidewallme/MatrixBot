@@ -4811,5 +4811,22 @@
          "pos_y":0,
          "cluster_id":0
       }
+      {
+         "member_id":270,
+         "member_type":"graduate",
+         "photo":"AlbergeVincent.jpg",
+         "name":"Vincent",
+         "surname":"Alberge",
+         "title":"Graduate Student",
+         "organization":"Université de Strasbourg (Advisors: Ken'ichi Ohshika and Athanase Papadopoulos)",
+         "research_interests":"Geometric Structures and Teichmüller Spaces",
+         "gear_collaborators":"",
+         "other_collaborators":"",
+         "website":"",
+         "short_bio":"My field of research is the classical Teichmüller theory. In particular, I am interested in the Gardiner-Masur compactification of the Teichmüller space.",
+         "pos_x":0,
+         "pos_y":0,
+         "cluster_id":0
+      }
    ]
 }
