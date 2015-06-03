@@ -25,6 +25,7 @@ public class MatrixBot {
     public static int[][] coCitationMatrix=new int[270][270];
     public static double[][] allMatrix=new double[270][270];
     
+    public static int peoplesize = 0;
     public static double a = 1;
     public static double b = 0.;
     public static double c = 0.;
@@ -45,12 +46,19 @@ public class MatrixBot {
         
         process();
         print();
+        makeInputForGephi();
         
     }
     
-    public static void init(){
-        for(int i=0;i<270;i++){
-            for(int j=0;j<270;j++){
+    public static void init() throws FileNotFoundException, IOException{
+        
+        BufferedReader br1 = new BufferedReader(new FileReader("size.txt"));
+        String line = br1.readLine();
+        peoplesize = Integer.parseInt(line);
+        br1.close();
+        
+        for(int i=0;i<peoplesize;i++){
+            for(int j=0;j<peoplesize;j++){
                 coAuthorMatrix[i][j]=0;
                 muCitationMatrix[i][j]=0;
                 coCitationMatrix[i][j]=0;
@@ -60,14 +68,14 @@ public class MatrixBot {
     }
     
     public static void process(){
-        for(int i=0;i<270;i++){
+        for(int i=0;i<peoplesize;i++){
             coAuthorMatrix[i][i]=0;
             muCitationMatrix[i][i]=0;
             coCitationMatrix[i][i]=0;
         }
         
-        for(int i=0;i<270;i++){
-            for(int j=0;j<270;j++){
+        for(int i=0;i<peoplesize;i++){
+            for(int j=0;j<peoplesize;j++){
                 if(muCitationMatrix[i][j]>0){
                     coCitationMatrix[i][j]=0;
                 }
@@ -76,8 +84,8 @@ public class MatrixBot {
         
         
         
-        for(int i=0;i<270;i++){
-            for(int j=0;j<270;j++){
+        for(int i=0;i<peoplesize;i++){
+            for(int j=0;j<peoplesize;j++){
                 allMatrix[i][j] = a*coAuthorMatrix[i][j]+ b*muCitationMatrix[i][j] + c*coCitationMatrix[i][j];
             }
         }
@@ -91,8 +99,8 @@ public class MatrixBot {
         PrintWriter wr3 = new PrintWriter("coCitationMatrix.txt", "UTF-8");
         PrintWriter wr4 = new PrintWriter("finalMatrix.txt", "UTF-8");
         
-        for(int i=0;i<270;i++){
-            for(int j=0;j<270;j++){
+        for(int i=0;i<peoplesize;i++){
+            for(int j=0;j<peoplesize;j++){
                 wr1.print(coAuthorMatrix[i][j]);
                 wr1.print(" ");
                 wr2.print(muCitationMatrix[i][j]);
@@ -216,5 +224,24 @@ public class MatrixBot {
             set.add(Integer.parseInt(temp));
         }
         return set;
+    }
+    
+    private static void makeInputForGephi() throws FileNotFoundException, UnsupportedEncodingException{
+        PrintWriter wr1 = new PrintWriter("inputForGephi.csv", "UTF-8");
+        wr1.println("Source;Target;Weight;Type");
+        double weight = 0;
+        int id1=0;
+        int id2=0;
+        for(int i=0;i<peoplesize;i++){
+            for(int j=0;j<peoplesize;j++){
+                weight = allMatrix[i][j];
+                if(weight !=0){
+                    id1 = i+1;
+                    id2 = j+1;
+                    wr1.println(id1+";"+id2+";"+weight+";"+"undirected");
+                }
+            }
+        }
+        wr1.close();
     }
 }

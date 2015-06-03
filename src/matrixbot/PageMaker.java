@@ -25,6 +25,7 @@ import java.util.Map;
  * @author erichsu
  */
 public class PageMaker {
+        public static int peoplesize = 0;
         public static ArrayList<Integer> ids = new ArrayList<>();
         public static ArrayList<Double> xs = new ArrayList<>();
         public static ArrayList<Double> ys = new ArrayList<>();
@@ -42,9 +43,13 @@ public class PageMaker {
         
     }
     
-    public static void init(){
+    public static void init() throws FileNotFoundException, IOException{
+        BufferedReader br1 = new BufferedReader(new FileReader("size.txt"));
+        String line = br1.readLine();
+        peoplesize = Integer.parseInt(line);
+        br1.close();
         
-        for(int i=0;i<270;i++){
+        for(int i=0;i<peoplesize;i++){
             idToX.put(i,0.);
             idToY.put(i,0.);
             idToClus.put(i,0);
