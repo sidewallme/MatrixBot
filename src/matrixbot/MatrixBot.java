@@ -55,6 +55,13 @@ public class MatrixBot {
         BufferedReader br1 = new BufferedReader(new FileReader("size.txt"));
         String line = br1.readLine();
         peoplesize = Integer.parseInt(line);
+        String as = br1.readLine();
+        a = Double.parseDouble(as);
+        String bs = br1.readLine();
+        b = Double.parseDouble(bs);
+        String cs = br1.readLine();
+        c = Double.parseDouble(cs);
+        
         br1.close();
         
         for(int i=0;i<peoplesize;i++){
