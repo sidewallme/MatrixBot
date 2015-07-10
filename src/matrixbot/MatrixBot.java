@@ -20,10 +20,10 @@ import java.util.StringTokenizer;
  * @author erichsu
  */
 public class MatrixBot {
-    public static int[][] coAuthorMatrix=new int[270][270];
-    public static int[][] muCitationMatrix=new int[270][270];
-    public static int[][] coCitationMatrix=new int[270][270];
-    public static double[][] allMatrix=new double[270][270];
+    public static int[][] coAuthorMatrix;
+    public static int[][] muCitationMatrix;
+    public static int[][] coCitationMatrix;
+    public static double[][] allMatrix;
     
     public static int peoplesize = 0;
     public static double a = 1;
@@ -63,6 +63,10 @@ public class MatrixBot {
         c = Double.parseDouble(cs);
         
         br1.close();
+        coAuthorMatrix = new int[peoplesize][peoplesize];
+        muCitationMatrix = new int[peoplesize][peoplesize];
+        coCitationMatrix=new int[peoplesize][peoplesize];
+        allMatrix=new double[peoplesize][peoplesize];
         
         for(int i=0;i<peoplesize;i++){
             for(int j=0;j<peoplesize;j++){

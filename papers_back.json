@@ -1,0 +1,984 @@
+{
+    "papers": [
+        {
+            "id": "1",
+            "collaborator_ids": [1,99],
+            "description": "Andersen, J. E.; Penner, R. C.; Reidys, C. M.; Waterman, M. S. Topological classification and enumeration of RNA structures by genus. J. Math. Biol. 67 (2013), no. 5, 1261–1278.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "2",
+            "collaborator_ids": [1,99],
+            "description": "Andersen, Jørgen E.; Chekhov, Leonid O.; Penner, R. C.; Reidys, Christian M.; Sułkowski, Piotr Topological recursion for chord diagrams, RNA complexes, and cells in moduli spaces. Nuclear Phys. B 866 (2013), no. 3, 414–443.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "3",
+            "collaborator_ids": [1,99],
+            "description": "Andersen, Jørgen E.; Huang, Fenix W. D.; Penner, Robert C.; Reidys, Christian M. Topology of RNA-RNA interaction structures. J. Comput. Biol. 19 (2012), no. 7, 928–943.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "4",
+            "collaborator_ids": [2,97],
+            "description": "Athreya, Jayadev; Paulin, Frédéric; Logarithm laws for strong unstable foliations in negative curvature and non-Archimedian Diophantine approximation. Groups Geom. Dyn. 8 (2014), no. 2, 285–309.",
+            "date": "2014",
+			"publication": "journal"
+        },
+		{
+            "id": "5",
+            "collaborator_ids": [2,32],
+            "description": "Athreya, Jayadev S.; Eskin, Alex; Zorich, Anton Counting generalized Jenkins-Strebel differentials. Geom. Dedicata 170 (2014), 195–217.",
+            "date": "2014",
+			"publication": "journal"
+        },
+		{
+            "id": "6",
+            "collaborator_ids": [2,32,84],
+            "description": "Athreya, Jayadev; Bufetov, Alexander; Eskin, Alex; Mirzakhani, Maryam Lattice point asymptotics and volume growth on Teichmüller space. Duke Math. J. 161 (2012), no. 6, 1055–1111.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "7",
+            "collaborator_ids": [9,11],
+            "description": "Boileau, Michel; Boyer, Steven; Cebanu, Radu; Walsh, Genevieve S. Knot commensurability and the Berge conjecture. Geom. Topol. 16 (2012), no. 2, 625–664.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "8",
+            "collaborator_ids": [9,11],
+            "description": "Boileau, Michel; Boyer, Steven On character varieties, sets of discrete characters, and nonzero degree maps. Amer. J. Math. 134 (2012), no. 2, 285–347.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "9",
+            "collaborator_ids": [10,104],
+            "description": "Bonahon, Francis; Šarić, Dragomir Infinitesimal Liouville currents, cross-ratios and intersection numbers. J. Topol. 5 (2012), no. 1, 213–225.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "10",
+            "collaborator_ids": [11,127],
+            "description": "Boyer, Steven; Gordon, Cameron McA.; Zhang, Xingru Dehn fillings of knot manifolds containing essential once-punctured tori. Trans. Amer. Math. Soc. 366 (2014), no. 1, 341–393.",
+            "date": "2014",
+			"publication": "journal"
+        },
+		{
+            "id": "11",
+            "collaborator_ids": [11,127],
+            "description": "Boyer, Steven; Gordon, Cameron McA.; Zhang, Xingru Characteristic submanifold theory and toroidal Dehn filling. Adv. Math. 230 (2012), no. 4-6, 1673–1737.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "12",
+            "collaborator_ids": [12,43,49],
+            "description": "Bradlow, Steven B.; García-Prada, Oscar; Gothen, Peter B. Deformations of maximal representations in Sp(4,R). Q. J. Math. 63 (2012), no. 4, 795–843.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "13",
+            "collaborator_ids": [12,120],
+            "description": "Bradlow, Steven B.; Wilkin, Graeme Morse theory, Higgs fields, and Yang-Mills-Higgs functionals. J. Fixed Point Theory Appl. 11 (2012), no. 1, 1–41.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "14",
+            "collaborator_ids": [13,113],
+            "description": "Bridgeman, Martin; Tan, Ser Peow Moments of the boundary hitting function for the geodesic flow on a hyperbolic manifold. Geom. Topol. 18 (2014), no. 1, 491–520.",
+            "date": "2014",
+			"publication": "journal"
+        },
+		{
+            "id": "15",
+            "collaborator_ids": [13,20],
+            "description": "Bridgeman, Martin; Canary, Richard D. Uniformly perfect domains and convex hulls: improved bounds in a generalization of a theorem of Sullivan. Pure Appl. Math. Q. 9 (2013), no. 1, 49–71.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "16",
+            "collaborator_ids": [15,16,20,83],
+            "description": "Brock, Jeffrey F.; Bromberg, Kenneth W.; Canary, Richard D.; Minsky, Yair N. Convergence properties of end invariants. Geom. Topol. 17 (2013), no. 5, 2877–2922.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "17",
+            "collaborator_ids": [15,20,83],
+            "description": "Brock, Jeffrey F.; Canary, Richard D.; Minsky, Yair N. The classification of Kleinian surface groups, II: The ending lamination conjecture. Ann. of Math. (2) 176 (2012), no. 1, 1–149.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "18",
+            "collaborator_ids": [16,111],
+            "description": "Bestvina, M.; Bromberg, K.; Fujiwara, K.; Souto, J. Shearing coordinates and convexity of length functions on Teichmüller space. Amer. J. Math. 135 (2013), no. 6, 1449–1476.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "19",
+            "collaborator_ids": [17,18,35,56,195],
+            "description": "Bucher, M.; Burger, M.; Frigerio, R.; Iozzi, A.; Pagliantini, C.; Pozzetti, M. B. Isometric embeddings in bounded cohomology. J. Topol. Anal. 6 (2014), no. 1, 1–25.",
+            "date": "2014",
+			"publication": "journal"
+        },
+		{
+            "id": "20",
+            "collaborator_ids": [17,18,56],
+            "description": "Bucher, Michelle; Burger, Marc; Iozzi, Alessandra A dual interpretation of the Gromov-Thurston proof of Mostow rigidity and volume rigidity for representations of hyperbolic lattices. Trends in harmonic analysis, 47–76, Springer INdAM Ser., 3, Springer, Milan, 2013.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "21",
+            "collaborator_ids": [18,56],
+            "description": "Burger, Marc; Iozzi, Alessandra Bounded cohomology and totally real subspaces in complex hyperbolic geometry. Ergodic Theory Dynam. Systems 32 (2012), no. 2, 467–478.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "22",
+            "collaborator_ids": [21,27,46],
+            "description": "Charette, Virginie; Drumm, Todd A.; Goldman, William M. Finite-sided deformation spaces of complete affine 3-manifolds. J. Topol. 7 (2014), no. 1, 225–246.",
+            "date": "2014",
+			"publication": "journal"
+        },
+		{
+            "id": "23",
+            "collaborator_ids": [21,27],
+            "description": "Charette, Virginie; Drumm, Todd A.; Lareau-Dussault, Rosemonde Equidistant hypersurfaces of the bidisk. Geom. Dedicata 163 (2013), 275–284.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "24",
+            "collaborator_ids": [22,40],
+            "description": "Cooper, Daryl; Futer, David; Purcell, Jessica S. Dehn filling and the geometry of unknotting tunnels. Geom. Topol. 17 (2013), no. 3, 1815–1876.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "25",
+            "collaborator_ids": [28,78,229],
+            "description": "Dowdall, Spencer; Duchin, Moon; Masur, Howard; Statistical Hyperbolicity in Teichmüller Space. Geom. Funct. Anal. 24 (2014), no. 3, 748–795. ",
+            "date": "2014",
+			"publication": "journal"
+        },
+		{
+            "id": "26",
+            "collaborator_ids": [28,78,229],
+            "description": "Dowdall, Spencer; Duchin, Moon; Masur, Howard Spheres in the curve complex. In the tradition of Ahlfors-Bers. VI, 1–8, Contemp. Math., 590, Amer. Math. Soc., Providence, RI, 2013.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "27",
+            "collaborator_ids": [29,101],
+            "description": "Choi, Young-Eun; Dumas, David; Rafi, Kasra Grafting rays fellow travel Teichmüller geodesics. [Grafting rays follow travel Teichmüller geodesics] Int. Math. Res. Not. IMRN 2012, no. 11, 2445–2492.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "28",
+            "collaborator_ids": [36,67],
+            "description": "Florentino, Carlos; Lawton, Sean; Topology of character varieties of Abelian groups. Topology Appl. 173 (2014), 32–58.",
+            "date": "2014",
+			"publication": "journal"
+        },
+		{
+            "id": "29",
+            "collaborator_ids": [36,67],
+            "description": "Biswas, Indranil; Florentino, Carlos; Lawton, Sean; Logares, Marina The topology of parabolic character varieties of free groups. Geom. Dedicata 168 (2014), 143–159.",
+            "date": "2014",
+			"publication": "journal"
+        },
+		{
+            "id": "30",
+            "collaborator_ids": [36,67],
+            "description": "Florentino, Carlos; Lawton, Sean Character varieties and moduli of quiver representations. In the tradition of Ahlfors-Bers. VI, 9–38, Contemp. Math., 590, Amer. Math. Soc., Providence, RI, 2013.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "31",
+            "collaborator_ids": [36,67],
+            "description": "Florentino, Carlos; Lawton, Sean Singularities of free group character varieties. Pacific J. Math. 260 (2012), no. 1, 149–179.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "32",
+            "collaborator_ids": [42,63,68],
+            "description": "Gadre, V.; Hironaka, E.; Kent, R. P., IV; Leininger, C. J. Lipschitz constants to curve complexes. Math. Res. Lett. 20 (2013), no. 4, 647–656.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "33",
+            "collaborator_ids": [43,233],
+            "description": "Álvarez-Cónsul, Luis; García-Fernández, Mario; García-Prada, Oscar Coupled equations for Kähler metrics and Yang-Mills connections. Geom. Topol. 17 (2013), no. 5, 2731–2812.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "34",
+            "collaborator_ids": [43,49,87],
+            "description": "García-Prada, O.; Gothen, P. B.; Mundet i Riera, I. Higgs bundles and surface group representations in the real symplectic group. J. Topol. 6 (2013), no. 1, 64–118.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "35",
+            "collaborator_ids": [46,66],
+            "description": "Goldman, William M.; Labourie, François Geodesics in Margulis spacetimes. Ergodic Theory Dynam. Systems 32 (2012), no. 2, 643–651.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "36",
+            "collaborator_ids": [46,126],
+            "description": "Goldman, William M.; Xia, Eugene Z. Action of the Johnson-Torelli group on representation varieties. Proc. Amer. Math. Soc. 140 (2012), no. 4, 1449–1457.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "37",
+            "collaborator_ids": [49,89],
+            "description": "Gothen, Peter B.; Oliveira, André G. The singular fiber of the Hitchin map. Int. Math. Res. Not. IMRN 2013, no. 5, 1079–1121.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "38",
+            "collaborator_ids": [49,89],
+            "description": "Gothen, Peter B.; Oliveira, André G. Rank two quadratic pairs and surface group representations. Geom. Dedicata 161 (2012), 335–375.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "39",
+            "collaborator_ids": [51,119],
+            "description": "Guichard, Olivier; Wienhard, Anna Anosov representations: domains of discontinuity and applications. Invent. Math. 190 (2012), no. 2, 357–438.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "40",
+            "collaborator_ids": [55,70],
+            "description": "Huang, Zheng; Loftin, John; Lucia, Marcello Holomorphic cubic differentials and minimal Lagrangian surfaces in CH2. Math. Res. Lett. 20 (2013), no. 3, 501–520.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "41",
+            "collaborator_ids": [58,93],
+            "description": "Ji, Lizhen; Papadopoulos, Athanase Historical development of Teichmüller theory. Arch. Hist. Exact Sci. 67 (2013), no. 2, 119–147.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "42",
+            "collaborator_ids": [60,101],
+            "description": "Kapovich, Ilya; Rafi, Kasra; On hyperbolicity of free splitting and free factor complexes. Groups Geom. Dyn. 8 (2014), no. 2, 391–414.",
+            "date": "2014",
+			"publication": "journal"
+        },
+		{
+            "id": "43",
+            "collaborator_ids": [60,180],
+            "description": "Kapovich, Ilya; Lukyanenko, Anton Quasi-isometric co-Hopficity of non-uniform lattices in rank-one semi-simple Lie groups. Conform. Geom. Dyn. 16 (2012), 269–282.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "44",
+            "collaborator_ids": [61,82],
+            "description": "Haines, Thomas J.; Kapovich, Michael; Millson, John J. Ideal triangles in Euclidean buildings and branching to Levi subgroups. J. Algebra 361 (2012), 41–78.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "45",
+            "collaborator_ids": [63,68],
+            "description": "Kent, Richard P., IV; Leininger, Christopher J. A geometric criterion to be pseudo-Anosov. Michigan Math. J. 63 (2014), no. 2, 227–251.",
+            "date": "2014",
+			"publication": "journal"
+        },
+		{
+            "id": "46",
+            "collaborator_ids": [63,111],
+            "description": "Kent, Richard P., IV; Souto, Juan Geometric limits of knot complements, II: graphs determined by their complements. Math. Z. 271 (2012), no. 1-2, 565–575.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "47",
+            "collaborator_ids": [65,139],
+            "description": "Brunebarbe, Yohan; Klingler, Bruno; Totaro, Burt Symmetric differentials and the fundamental group. Duke Math. J. 162 (2013), no. 14, 2797–2813.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "48",
+            "collaborator_ids": [65,91],
+            "description": "Kim, Inkang; Klingler, Bruno; Pansu, Pierre Local quaternionic rigidity for complex hyperbolic lattices. J. Inst. Math. Jussieu 11 (2012), no. 1, 133–159.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "49",
+            "collaborator_ids": [67,144],
+            "description": "Cavazos, Samuel; Lawton, Sean; E-polynomial of SL2(C)-character varieties of free groups. Internat. J. Math. 25 (2014), no. 6.",
+            "date": "2014",
+			"publication": "journal"
+        },
+		{
+            "id": "50",
+            "collaborator_ids": [71,102],
+            "description": "Long, D. Darren; Reid, Alan W. Constructing thin subgroups in SL(4,R). Int. Math. Res. Not. IMRN 2014, no. 7, 2006–2016.",
+            "date": "2014",
+			"publication": "journal"
+        },
+		{
+            "id": "51",
+            "collaborator_ids": [72,260],
+            "description": "Luo, Feng; Tillmann, Stephan; Yang, Tian Thurston's spinning construction and solutions to the hyperbolic gluing equations for closed hyperbolic 3-manifolds. Proc. Amer. Math. Soc. 141 (2013), no. 1, 335–350.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "52",
+            "collaborator_ids": [72,106],
+            "description": "Luo, Feng; Schlenker, Jean-Marc Volume maximization and the extended hyperbolic space. Proc. Amer. Math. Soc. 140 (2012), no. 3, 1053–1068.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "53",
+            "collaborator_ids": [78,121],
+            "description": "Burns, K.; Masur, H.; Wilkinson, A. The Weil-Petersson geodesic flow is ergodic. Ann. of Math. (2) 175 (2012), no. 2, 835–908.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "54",
+            "collaborator_ids": [79,102,112],
+            "description": "McReynolds, D. B.; Reid, Alan W.; Stover, Matthew Collisions at infinity in hyperbolic manifolds. Math. Proc. Cambridge Philos. Soc. 155 (2013), no. 3, 459–463.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "55",
+            "collaborator_ids": [85,108],
+            "description": "Mj, Mahan; Series, Caroline Limits of limit sets I. Geom. Dedicata 167 (2013), 35–67.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "56",
+            "collaborator_ids": [93,223],
+            "description": "Alessandrini, Daniele; Liu, Lixin; Papadopoulos, Athanase; Su, Weixu The behaviour of Fenchel-Nielsen distance under a change of pants decomposition. Comm. Anal. Geom. 20 (2012), no. 2, 369–394.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "57",
+            "collaborator_ids": [93,223],
+            "description": "Alessandrini, D.; Liu, L.; Papadopoulos, A.; Su, W. On local comparison between various metrics on Teichmüller spaces. Geom. Dedicata 157 (2012), 91–110.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "58",
+            "collaborator_ids": [93,223],
+            "description": "Alessandrini, Daniele; Liu, Lixin; Papadopoulos, Athanase; Su, Weixu On various Teichmüller spaces of a surface of infinite topological type. Proc. Amer. Math. Soc. 140 (2012), no. 2, 561–574.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "59",
+            "collaborator_ids": [101,114],
+            "description": "Rafi, Kasra; Tao, Jing The diameter of the thick part of moduli space and simultaneous Whitehead moves. Duke Math. J. 162 (2013), no. 10, 1833–1876",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "60",
+            "collaborator_ids": [101,114],
+            "description": "Lenzhen, Anna; Rafi, Kasra; Tao, Jing Bounded combinatorics and the Lipschitz metric on Teichmüller space. Geom. Dedicata 159 (2012), 353–371.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "61",
+            "collaborator_ids": [111,112],
+            "description": "Souto, Juan; Stover, Matthew A Cantor set with hyperbolic complement. Conform. Geom. Dyn. 17 (2013), 58–67.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "62",
+            "collaborator_ids": [118,120],
+            "description": "Wentworth, Richard A.; Wilkin, Graeme Cohomology of U(2,1) representation varieties of surface groups. Proc. Lond. Math. Soc. (3) 106 (2013), no. 2, 445–476.",
+            "date": "2013",
+			"publication": "journal"
+        },
+		{
+            "id": "63",
+            "collaborator_ids": [118,120],
+            "description": "Wentworth, Richard A.; Wilkin, Graeme Morse theory and stable pairs. Variational problems in differential geometry, 142–181, London Math. Soc. Lecture Note Ser., 394, Cambridge Univ. Press, Cambridge, 2012.",
+            "date": "2012",
+			"publication": "journal"
+        },
+		{
+            "id": "64",
+            "collaborator_ids": [250,260],
+            "description": "Roger, Julien; Yang, Tian The skein algebra of arcs and links and the decorated Teichmüller space. J. Differential Geom. 96 (2014), no. 1, 95–140.",
+            "date": "2014",
+			"publication": "journal"
+        },
+		{
+            "id": "65",
+            "collaborator_ids": [0,75],
+            "description": "Ian Agol, Daniel Groves, Jason Fox Manning; An alternate proof of Wise's Malnormal Special Quotient Theorem",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "66",
+            "collaborator_ids": [0,68],
+            "description": "Ian Agol, Christopher J. Leininger, Dan Margalit; Pseudo-Anosov stretch factors and homology of mapping tori",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "67",
+            "collaborator_ids": [0,75],
+            "description": "Ian Agol, Daniel Groves, Jason Fox Manning; The virtual Haken conjecture",
+            "date": "2012",
+			"publication": "preprint"
+        },
+		{
+            "id": "68",
+            "collaborator_ids": [1,232],
+            "description": "Jørgen Ellegaard Andersen, Søren Fuglede Jørgensen; On the Witten--Reshetikhin--Turaev invariants of torus bundles",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "69",
+            "collaborator_ids": [1,99],
+            "description": "Jørgen E. Andersen, Leonid O. Chekhov, R. C. Penner, Christian M. Reidys, Piotr Sułkowski; Enumeration of RNA complexes via random matrix theory",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "70",
+            "collaborator_ids": [1,99],
+            "description": "N.V.Alexeev, J.E.Andersen, R.C.Penner, P.G.Zograf; Enumeration of chord diagrams on many intervals and their non-orientable analogs",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "71",
+            "collaborator_ids": [1,232],
+            "description": "Jørgen Ellegaard Andersen, Benjamin Himpel, Søren Fuglede Jørgensen, Johan Martens, Brendan McLellan; The Witten-Reshetikhin-Turaev invariant for links in finite order mapping tori I",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "72",
+            "collaborator_ids": [2,32],
+            "description": "Jayadev S. Athreya, Alex Eskin, Anton Zorich, with an appendix by Jon Chaika; Right-angled billiards and volumes of moduli spaces of quadratic differentials on CP^1",
+            "date": "2012",
+			"publication": "preprint"
+        },
+		{
+            "id": "73",
+            "collaborator_ids": [3,254],
+            "description": "David Baraglia, Laura P. Schaposnik; Higgs bundles and (A,B,A)-branes",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "74",
+            "collaborator_ids": [3,254],
+            "description": "David Baraglia, Laura P. Schaposnik; Real structures on moduli spaces of Higgs bundles",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "75",
+            "collaborator_ids": [9,11],
+            "description": "Michel Boileau, Steven Boyer; Graph manifolds Z-homology 3-spheres and taut foliations",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "76",
+            "collaborator_ids": [10,230],
+            "description": "Francis Bonahon, Guillaume Dreyer; Parametrizing Hitchin components",
+            "date": "2012",
+			"publication": "preprint"
+        },
+		{
+            "id": "77",
+            "collaborator_ids": [12,43,49],
+            "description": "Steven B. Bradlow, Oscar Garcia-Prada, Peter B. Gothen; Higgs bundles for the non-compact dual of the special orthogonal group",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "78",
+            "collaborator_ids": [13,20,66,103],
+            "description": "Martin Bridgeman, Richard Canary, Francois Labourie, Andres Sambarino; The pressure metric for convex representations",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "79",
+            "collaborator_ids": [13,113],
+            "description": "Martin Bridgeman, Ser Peow Tan; Identities on Hyperbolic Manifolds",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "80",
+            "collaborator_ids": [13,20],
+            "description": "Martin Bridgeman, Richard Canary, Andrew Yarmola; An improved bound for Sullivan's convex hull theorem",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "81",
+            "collaborator_ids": [15,31],
+            "description": "Jeffrey F. Brock, Nathan M. Dunfield; Injectivity radii of hyperbolic integer homology 3-spheres",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "82",
+            "collaborator_ids": [15,83,111],
+            "description": "Jeffrey Brock, Yair Minsky, Hossein Namazi, Juan Souto; Bounded combinatorics and uniform models for hyperbolic 3-manifolds",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "83",
+            "collaborator_ids": [15,16,20],
+            "description": "Jeffrey Brock, Kenneth Bromberg, Richard Canary, Cyril Lecuire; Convergence and divergence of Kleinian surface groups",
+            "date": "2014",
+			"publication": "preprint"
+        },
+        {
+            "id": "84",
+            "collaborator_ids": [17,18,35,56,195],
+            "description": "Michelle Bucher, Marc Burger, Roberto Frigerio, Alessandra Iozzi, Cristina Pagliantini, Maria Beatrice Pozzetti; Isometric properties of relative bounded cohomology",
+            "date": "2012",
+			"publication": "preprint"
+        },
+        {
+            "id": "85",
+            "collaborator_ids": [17,35],
+            "description": "M. Bucher, R. Frigerio, C. Pagliantini; The simplicial volume of 3-manifolds with boundary",
+            "date": "2012",
+			"publication": "preprint"
+        },	
+        {
+            "id": "86",
+            "collaborator_ids": [17,18,56],
+            "description": "Michelle Bucher, Marc Burger, Alessandra Iozzi; Integrality of Volumes of Representations",
+            "date": "2014",
+			"publication": "preprint"
+        },	
+        {
+            "id": "87",
+            "collaborator_ids": [18,56,119],
+            "description": "Gabi Ben Simon, Marc Burger, Tobias Hartnick, Alessandra Iozzi, Anna Wienhard; On weakly maximal representations of surface groups",
+            "date": "2013",
+			"publication": "preprint"
+        },	
+        {
+            "id": "88",
+            "collaborator_ids": [140,21,27,46],
+            "description": "Jean-Philippe Burelle, Virginie Charette, Todd Drumm, William Goldman; Crooked Halfspaces",
+            "date": "2012",
+			"publication": "preprint"
+        },	
+        {
+            "id": "89",
+            "collaborator_ids": [22,46],
+            "description": "Daryl Cooper, William Goldman; A 3-Manifold with no Real Projective Structure",
+            "date": "2012",
+			"publication": "preprint"
+        },	
+        {
+            "id": "90",
+            "collaborator_ids": [22,71],
+            "description": "Daryl Cooper, Darren Long; A generalization of the Epstein-Penner construction to projective manifolds",
+            "date": "2013",
+			"publication": "preprint"
+        },	
+        {
+            "id": "91",
+            "collaborator_ids": [22,119],
+            "description": "Daryl Cooper, Jeffrey Danciger, Anna Wienhard; Limits of geometries",
+            "date": "2014",
+			"publication": "preprint"
+        },	
+        {
+            "id": "92",
+            "collaborator_ids": [26,33],
+            "description": "Martin Deraux, Elisha Falbel; Complex hyperbolic geometry of the figure eight knot",
+            "date": "2013",
+			"publication": "preprint"
+        },	
+        {
+            "id": "93",
+            "collaborator_ids": [26,94,98],
+            "description": "Martin Deraux, John R. Parker, Julien Paupert; New non-arithmetic complex hyperbolic lattices",
+            "date": "2014",
+			"publication": "preprint"
+        },	
+        {
+            "id": "94",
+            "collaborator_ids": [29,123],
+            "description": "David Dumas, Michael Wolf; Polynomial cubic differentials and convex polygons in the projective plane",
+            "date": "2014",
+			"publication": "preprint"
+        },	
+        {
+            "id": "95",
+            "collaborator_ids": [30,81],
+            "description": "Sorin Dumitrescu, Karin Melnick; Quasihomogeneous three-dimensional real analytic Lorentz metrics do not exist",
+            "date": "2014",
+			"publication": "preprint"
+        },	
+        {
+            "id": "96",
+            "collaborator_ids": [32,84,101],
+            "description": "Alex Eskin, Maryam Mirzakhani, Kasra Rafi; Counting closed geodesics in strata",
+            "date": "2012",
+			"publication": "preprint"
+        },	
+        {
+            "id": "97",
+            "collaborator_ids": [32,84],
+            "description": "Alex Eskin, Maryam Mirzakhani; Invariant and stationary measures for the SL(2,R) action on Moduli space",
+            "date": "2013",
+			"publication": "preprint"
+        },	
+        {
+            "id": "98",
+            "collaborator_ids": [32,84],
+            "description": "Alex Eskin, Maryam Mirzakhani, Amir Mohammadi; Isolation, equidistribution, and orbit closures for the SL(2,R) action on Moduli space",
+            "date": "2013",
+			"publication": "preprint"
+        },	
+        {
+            "id": "99",
+            "collaborator_ids": [32,78,101],
+            "description": "Alex Eskin, Howard Masur, Kasra Rafi; Large scale rank of Teichmuller space",
+            "date": "2013",
+			"publication": "preprint"
+        },	
+        {
+            "id": "100",
+            "collaborator_ids": [35,195],
+            "description": "R. Frigerio, M. B. Pozzetti, A. Sisto; Extending higher dimensional quasi-cocycles",
+            "date": "2013",
+			"publication": "preprint"
+        },	
+        {
+            "id": "101",
+            "collaborator_ids": [36,67,89],
+            "description": "Ana Casimiro, Carlos Florentino, Sean Lawton, André Oliveira; Topology of Moduli Spaces of Free Group Representations in Real Reductive Groups",
+            "date": "2014",
+			"publication": "preprint"
+        },
+        {
+            "id": "102",
+            "collaborator_ids": [43,89],
+            "description": "Oscar García-Prada, André Oliveira; Connectedness of the moduli of Sp(2p,2q)-Higgs bundles",
+            "date": "2012",
+			"publication": "preprint"
+        },	
+        {
+            "id": "103",
+            "collaborator_ids": [43,89],
+            "description": "Oscar García-Prada, André Oliveira; Connectivity of Higgs bundle moduli for complex reductive Lie groups",
+            "date": "2014",
+			"publication": "preprint"
+        },	
+        {
+            "id": "104",
+            "collaborator_ids": [46,62,106],
+            "description": "Thierry Barbot, Francesco Bonsante, Jeffrey Danciger, William M. Goldman, François Guéritaud, Fanny Kassel, Kirill Krasnov, Jean-Marc Schlenker, Abdelghani Zeghib; Some open questions on anti-de Sitter geometry",
+            "date": "2012",
+			"publication": "preprint"
+        },	
+        {
+            "id": "105",
+            "collaborator_ids": [48,128],
+            "description": "Stavros Garoufalidis, Matthias Goerner, Christian K. Zickert; Gluing equations for PGL(n,C)-representations of 3-manifolds",
+            "date": "2012",
+			"publication": "preprint"
+        },	
+		{
+            "id": "106",
+            "collaborator_ids": [48,128],
+            "description": "Stavros Garoufalidis, Matthias Goerner, Christian K. Zickert; The Ptolemy field of $3$-manifold-representations",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "107",
+            "collaborator_ids": [58,93],
+            "description": "Annette A'Campo-Neuen, Norbert A'Campo, Lizhen Ji, Athanase Papadopoulos; A commentary on Teichmüller's paper 'Veränderliche Riemannsche Flächen' (Variable Riemann Surfaces)",
+            "date": "2012",
+			"publication": "preprint"
+        },
+		{
+            "id": "108",
+            "collaborator_ids": [60,73],
+            "description": "Ilya Kapovich, Martin Lustig; Cannon-Thurston fibers for irreducible automorphisms of $F_N$",
+            "date": "2012",
+			"publication": "preprint"
+        },
+		{
+            "id": "109",
+            "collaborator_ids": [229,60,68],
+            "description": "Spencer Dowdall, Ilya Kapovich, Christopher J. Leininger; Dynamics on free-by-cyclic groups",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "110",
+            "collaborator_ids": [229,60,68],
+            "description": "Spencer Dowdall, Ilya Kapovich, Christopher J. Leininger; McMullen polynomials and Lipschitz flows for free-by-cyclic groups",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "111",
+            "collaborator_ids": [60,68],
+            "description": "Woojin Jeon, Ilya Kapovich, Christopher Leininger, Ken'ichi Ohshika; Conical limit points and the Cannon-Thurston map",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "112",
+            "collaborator_ids": [229,60,68],
+            "description": "Spencer Dowdall, Ilya Kapovich, Christopher J. Leininger; Unbounded asymmetry of stretch factors",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "113",
+            "collaborator_ids": [60,73],
+            "description": "Ilya Kapovich, Martin Lustig; Patterson-Sullivan currents, generic stretching factors and the asymmetric Lipschitz metric for Outer space",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "114",
+            "collaborator_ids": [60,82],
+            "description": "John J. Millson, Michael Kapovich; On representation varieties of 3-manifold groups",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "115",
+            "collaborator_ids": [60,100],
+            "description": "Michael Kapovich, Bernhard Leeb, Joan Porti; Dynamics at infinity of regular discrete subgroups of isometries of higher rank symmetric spaces",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "116",
+            "collaborator_ids": [60,100],
+            "description": "Michael Kapovich, Bernhard Leeb, Joan Porti; Morse actions of discrete groups on symmetric space",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "117",
+            "collaborator_ids": [62,124],
+            "description": "François Guéritaud, Fanny Kassel, Maxime Wolff; Compact anti-de Sitter 3-manifolds and folded hyperbolic structures on surfaces",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "118",
+            "collaborator_ids": [63,68,229],
+            "description": "Spencer Dowdall, Richard P. Kent IV, Christopher J. Leininger; Pseudo-Anosov subgroups of fibered 3-manifold groups",
+            "date": "2012",
+			"publication": "preprint"
+        },
+		{
+            "id": "119",
+            "collaborator_ids": [63,83],
+            "description": "Richard P. Kent IV, Yair N. Minsky; Thick-skinned 3-manifolds",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "120",
+            "collaborator_ids": [67,79],
+            "description": "Sean Lawton, Larsen Louder, D. B. McReynolds; Decision problems, complexity, traces, and representations",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "121",
+            "collaborator_ids": [68,101],
+            "description": "Christopher Leininger, Anna Lenzhen, Kasra Rafi; Limit sets of Teichmüller geodesics with minimal non-uniquely ergodic vertical foliation",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "122",
+            "collaborator_ids": [72,260],
+            "description": "Feng Luo, Tian Yang; Volume and rigidity of hyperbolic polyhedral $3$-manifolds",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "123",
+            "collaborator_ids": [78,121],
+            "description": "Keith Burns, Howard Masur, Carlos Matheus, Amie Wilkinson; Rates of mixing of Weil-Pertesson geodesic flows",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "124",
+            "collaborator_ids": [78,123],
+            "description": "Jon Chaika, Howard Masur, Michael Wolf; Limits in PMF of Teichmuller geodesics",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "125",
+            "collaborator_ids": [85,108],
+            "description": "Mahan Mj, Caroline Series; Limits of limit sets II: Geometrically Infinite Groups",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "126",
+            "collaborator_ids": [88,117],
+            "description": "Walter Neumann, Anastasiia Tsvietkova; Intercusp geodesics and the invariant trace field of hyperbolic 3-manifolds",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "127",
+            "collaborator_ids": [90,113,243],
+            "description": "Sara Maloni, Frederic Palesi, Ser Peow Tan; On the character variety of the four-holed sphere",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "128",
+            "collaborator_ids": [93,223],
+            "description": "Daniele Alessandrini, Lixin Liu, Athanase Papadopoulos, Weixu Su; On the inclusion of the quasiconformal Teichmüller space into the length-spectrum Teichmüller space",
+            "date": "2012",
+			"publication": "preprint"
+        },
+		{
+            "id": "129",
+            "collaborator_ids": [93,99],
+            "description": "Athanase Papadopoulos, Robert C. Penner; Hyperbolic metrics, measured foliations and pants decompositions for non-orientable surfaces",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "130",
+            "collaborator_ids": [94,122],
+            "description": "John R. Parker, Pierre Will; Complex hyperbolic free groups with many parabolic elements",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "131",
+            "collaborator_ids": [98,122],
+            "description": "Julien Paupert, Pierre Will; Real reflections, commutators and cross-ratios in complex hyperbolic space",
+            "date": "2013",
+			"publication": "preprint"
+        },
+		{
+            "id": "132",
+            "collaborator_ids": [101,114],
+            "description": "Anna Lenzhen, Kasra Rafi, Jing Tao; The shadow of a Thurston geodesic to the curve graph",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "133",
+            "collaborator_ids": [101,114],
+            "description": "Kasra Rafi, Jing Tao; Uniform growth rate",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "134",
+            "collaborator_ids": [108,113],
+            "description": "Caroline Series, Ser Peow Tan, Yasushi Yamashita; The diagonal slice of Schottky space",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "135",
+            "collaborator_ids": [113,239],
+            "description": "Hengnan Hu, Ser-Peow Tan; New Identities for small hyperbolic surfaces",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "136",
+            "collaborator_ids": [113,239],
+            "description": "Hengnan Hu, Ser Peow Tan, Ying Zhang; A new identity for SL(2,C)-characters of the once punctured torus group",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "137",
+            "collaborator_ids": [224,237],
+            "description": "Shinpei Baba, Subhojoy Gupta; Holonomy map fibers of $CP^1$-structures in moduli space",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "138",
+            "collaborator_ids": [234,133],
+            "description": "Edgar A. Bering IV, Jonah Gaster; The random graph embeds in the curve graph of any infinite genus surface",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "139",
+            "collaborator_ids": [149,179],
+            "description": "Brian Collier, Qiongling Li; Asymptotics of certain families of Higgs bundles in the Hitchin component",
+            "date": "2014",
+			"publication": "preprint"
+        },
+		{
+            "id": "140",
+            "collaborator_ids": [215,217],
+            "description": "Caglar Uyanik, Grace Work; The distribution of gaps for saddle connections on the octagon",
+            "date": "2014",
+			"publication": "preprint"
+        }
+    ]
+}
